@@ -45,6 +45,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [IFTTT](https://ifttt.com/) - Connect all your things together.
 - [Integromat](https://www.integromat.com/) - Connect apps and automate workflows in a few clicks.
 - [Kintone](https://www.kintone.com/) - All-in-one workplace platform to build, share, and automate custom workflows and processes for data-driven results.
+- [Linx](https://linx.software/) - General-purpose low-code platfrom for backend applicaitons (APIs, Integration, Automation)
 - [Microsoft Flow - Power Automate](https://flow.microsoft.com/) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Node-RED](https://nodered.org/) - Open Source lowcode programming for event-driven applications.
